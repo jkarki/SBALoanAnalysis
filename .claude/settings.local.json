@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/jaykarki/Downloads/NFLSalaryCapAnalysis/data/**)",
+      "Read(//Users/jaykarki/Downloads/NFLSalaryCapAnalysis/notebooks/**)",
+      "Read(//Users/jaykarki/Downloads/NFLSalaryCapAnalysis/sql/**)",
+      "Read(//Users/jaykarki/Downloads/NFLSalaryCapAnalysis/Tableau/**)",
+      "Bash(git -C /Users/jaykarki/Downloads/NFLSalaryCapAnalysis remote -v)"
+    ]
+  }
+}
